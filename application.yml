@@ -3,6 +3,6 @@ spring:
     name: spring-cloud-config-test
 ---
 app:
-    name: Remote Name
+    name: Remote Name 12334456343434
    # address: Remote Address
     
