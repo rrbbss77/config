@@ -4,4 +4,4 @@ spring:
     name: SpringCloudConfigTesting
 ---
 app:
-    name: remote_external_app_123213
+    name: remote_external_app_hello_how is our world!!!
