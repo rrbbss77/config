@@ -4,5 +4,5 @@ spring:
 ---
 app:
     name: Remote Name
-    address: Remote Address
+   # address: Remote Address
     
