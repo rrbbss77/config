@@ -1,7 +1,8 @@
 spring:
-# change the application name for your project name , this name is reserved for the maven archetype code generation
   application:
-    name: SpringCloudConfigTesting
+    name: spring-cloud-config-test
 ---
 app:
-    name: remote_name_that_i_have_is_test.....
+    name: Remote Name
+    address: Remote Address
+    
