@@ -3,6 +3,6 @@ spring:
     name: spring-cloud-config-test
 ---
 app:
-    name: Google Inc.
-    address: Mountain View California
+    name: Apple Inc.
+    address: Cuppertino, California
     
